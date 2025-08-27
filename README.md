@@ -1,6 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16971237.svg)](https://doi.org/10.5281/zenodo.16971237)
 
 ## Cite this repository
+```
+
 @software{leadership_training_continuum,
 title        = {Leadership Training Continuum},
 author       = {Modern Leadership Center},
@@ -8,6 +10,9 @@ year         = {2025},
 url          = {https://github.com/ModernLeadershipCenter/leadership-training-continuum},
 doi          = {10.5281/zenodo.16971237},
 version      = {v2.0.2}
+}
+
+**Leadership Training and Development Continuum**
 
 **Description** 
 The leadership training continuum diagrams the 3 phases of leadership development, contrasting skillsets needed vs training required: 1. employee development, 2. leadership training for managers and 3. executive leadership training.
