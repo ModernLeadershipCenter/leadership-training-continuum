@@ -25,7 +25,7 @@ Simply down load and edit Venn diagram, adding, changing or replacing terms to i
 Use the Leadership training continuum Venn wherever needed to expand the visual comprehension of leadership training best practices. I E Staring with employee skills development through manager and executive leadership training.
 
 **Contributing** 
-Guidelines for contributing to the project include edits to x and y axis descriptions that improve its ability to expand readers grasp and perception of leadership skills development.
+Guidelines for contributing to the project include edits to x and y axis descriptions that improve its ability to expand readers grasp and perception of leadership training and skills development.
 
 **License**
 License is MIT, feel free to use as long as you provide attribution.
