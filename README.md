@@ -15,7 +15,7 @@ version      = {v2.0.2}
 **Leadership Training and Development Continuum**
 
 **Description** 
-The leadership training continuum diagrams the 3 phases of leadership development, contrasting skillsets needed vs training required: 1. employee development, 2. leadership training for managers and 3. executive leadership training.
+The leadership training continuum venn diagrams the 3 phases of leadership development, contrasting skillsets needed vs training required: 1. employee development, 2. leadership training for managers and 3. executive leadership training.
 The purpose of this project is to continually refine the diagram’s x and y aspects, such as adding more skillsets and training terms, that can fit within 5 to 7 description. 
 
 **Installation instructions**
